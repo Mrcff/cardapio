@@ -25,6 +25,4 @@ O site da Pizzaria Sapori d’Italia foi criado com o objetivo de oferecer uma i
 ## Como Executar o Projeto
 
 1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/sapori-italia.git
 
